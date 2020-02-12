@@ -24,6 +24,30 @@ public class Autoa extends Ibilgailua {
 		return "Autoa [marka=" + marka + ", modelo=" + modelo + ", ateak=" + ateak + ", matricula=" + matricula
 				+ ", gurpil_zb=" + gurpil_zb + ", potentzia=" + potentzia + ", kolorea=" + kolorea + "]";
 	}
+
+	public String getMarka() {
+		return marka;
+	}
+
+	public void setMarka(String marka) {
+		this.marka = marka;
+	}
+
+	public String getModelo() {
+		return modelo;
+	}
+
+	public void setModelo(String modelo) {
+		this.modelo = modelo;
+	}
+
+	public int getAteak() {
+		return ateak;
+	}
+
+	public void setAteak(int ateak) {
+		this.ateak = ateak;
+	}
 	
 
 
