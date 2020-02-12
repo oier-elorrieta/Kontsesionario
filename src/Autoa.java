@@ -4,6 +4,7 @@ public class Autoa extends Ibilgailua {
 	private String modelo;
 	private int ateak;
 	
+	
 	public Autoa(String matricula, int gurpil_zb, int potentzia, String kolorea,String marka,String modelo, int ateak) {
 		super(matricula, gurpil_zb, potentzia, kolorea);
 		this.marka = marka;
