@@ -84,6 +84,7 @@ public class Autoa extends Ibilgailua {
 				+ ", gurpil_zb=" + gurpil_zb + ", potentzia=" + potentzia + ", kolorea=" + kolorea + "]";
 	}
 	uyksetykwye5ey
+	ukdtsyiksw
 	
 
 
