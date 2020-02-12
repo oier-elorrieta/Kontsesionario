@@ -6,7 +6,7 @@ public class Nagusia {
 		System.out.println("hola mundo");
 		System.out.println("F en chat de RIP");
 		System.out.println("Aitor para ya dhholmlñe cambiar");
-		System.out.println("dasd");
+		System.out.println("daadasdasdassd");
 	}
 
 }
